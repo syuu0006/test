@@ -12,7 +12,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/syuu0006/hw9/main/data/2018.csv"
+          "url": "https://github.com/syuu0006/test/blob/main/data/FIT3179dataset.csv"
         },
         "key": "Country or region",
         "fields": ["GDP per capita"]
